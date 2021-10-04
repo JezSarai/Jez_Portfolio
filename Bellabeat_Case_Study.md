@@ -22,10 +22,10 @@ A short description of each file, analysis, facts, assumptions, and major proble
 
 ### Results
 Most users:
--Are either healthy or overweight.
--Sleep an average of 7 hours a day, takes half an hour to fall asleep. Do not have enough sleep for an adult.
--Walk an average of 5087 steps per day. Which implies low activity, close to a sedentary life.
--Do an average of 102.8 MET minutes per week, not enough for optimal cardiovascular health.
+- Are either healthy or overweight.
+- Sleep an average of 7 hours a day, takes half an hour to fall asleep. Do not have enough sleep for an adult.
+- Walk an average of 5087 steps per day. Which implies low activity, close to a sedentary life.
+- Do an average of 102.8 MET minutes per week, not enough for optimal cardiovascular health.
 
 
 ## Solutions
@@ -42,18 +42,18 @@ Slides [presentation](https://docs.google.com/presentation/d/1RpI9FruQ30nTynJisb
 **NOTIFY**: MET minutes for optimal cardiovascular health, calories deficit and calories burned, optimal time to go to bed and abnormal heart rates.
 
 ### Let's investigate
--Why are Tuesdays the day with the less activity and more calorie intake?
--Why are Saturday the days with more steps and MET minutes?
--Why not Sundays? Are users taking a break?
+- Why are Tuesdays the day with the less activity and more calorie intake?
+- Why are Saturday the days with more steps and MET minutes?
+- Why not Sundays? Are users taking a break?
 
 
 ## Next Steps...
 We recommend in the future to add the next features:
--Make medication reminders
--Keep a record of mindful minutes
--Menstrual cycle tracker
--Notify if the user is developing:
-  -Sleep apnea
-  -Atrial fibrillation
-  -Respiratory issues
-  -Stress
+- Make medication reminders
+- Keep a record of mindful minutes
+- Menstrual cycle tracker
+- Notify if the user is developing:
+  - Sleep apnea
+  - Atrial fibrillation
+  - Respiratory issues
+  - Stress
