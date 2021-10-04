@@ -30,6 +30,9 @@ Most users:
 
 ## Solutions
 
+
+Slides [presentation](https://docs.google.com/presentation/d/1RpI9FruQ30nTynJisbiWwfcVvknLacR8COnLISjaBTY/edit?usp=sharing) of project.
+
 ## Conclusions
 ### The Game Strategy
 **STORE AND MONITOR**: Daily steps, METs, sleeping and bedtime, and heart rate each minute and monthly BMI.
