@@ -34,7 +34,7 @@ Most users:
 Slides [presentation](https://docs.google.com/presentation/d/1RpI9FruQ30nTynJisbiWwfcVvknLacR8COnLISjaBTY/edit?usp=sharing) of project.
 
 ## Conclusions
-### The Game Strategy
+### The Game Plan
 **STORE AND MONITOR**: Daily steps, METs, sleeping and bedtime, and heart rate each minute and monthly BMI.
 
 **CALCULATE**: Height, monthly BMI, health status based on heart rate, BMI, steps and METs.  
