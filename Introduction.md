@@ -15,4 +15,4 @@ E-mail: jessicas.gonzalezr@gmail.com
 You can find the most updated version of my [resume here](https://docs.google.com/document/d/1k7i5eW0aztkoCV3j5dZlA3qTKjWgAF8DZ7jHxB0J8ys/edit?usp=sharing).
 
 # Case Studies and Projects
-Go to the next page to check my case studies.
+Go to the next page to check my [case studies](https://github.com/JezSarai/Jez_Portfolio/blob/059ce62da50a9e221ca8919c672f577f68e9b0c8/Case%20Studies.md).
