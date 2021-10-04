@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Jessica Gonzalez' Portfolio
 
-You can use the [editor on GitHub](https://github.com/JezSarai/Jez_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Biography
+I am an engineer in Biotechnology who has dived in data analysis for quite some time. I have been analyzing data since pre-grad and fell in love with it during my time as an R&D specialist in a lab at Tec de Monterrey. Soon I realized the power of data and the fact that I wanted to dedicate my life to data analysis, engineering, and science.
+As an analytical person, I am data-driven, focused on constantly improve my performance, and get knowledge of tools to make better analyses and visualizations to share my findings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Contact Info
+Phone number:  81 1513 7593
 
-### Markdown
+E-mail: jessicas.gonzalezr@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Linked-In profile](https://www.linkedin.com/in/jessica-gonzalez-97920149/)
 
-```markdown
-Syntax highlighted code block
+# Resume
+You can find the most updated version of my [resume here](https://docs.google.com/document/d/1k7i5eW0aztkoCV3j5dZlA3qTKjWgAF8DZ7jHxB0J8ys/edit?usp=sharing).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JezSarai/Jez_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Case Studies and Projects
+Go to the next page to check my case studies.
