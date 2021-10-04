@@ -24,12 +24,35 @@ A short description of each file, analysis, facts, assumptions, and major proble
 Most users:
 - Are either healthy or overweight.
 - Sleep an average of 7 hours a day, takes half an hour to fall asleep. Do not have enough sleep for an adult.
-- Walk an average of 5087 steps per day. Which implies low activity, close to a sedentary life.
+- Walk an average of 8319 steps per day. Which implies low activity, close to a sedentary life.
 - Do an average of 102.8 MET minutes per week, not enough for optimal cardiovascular health.
+
+### Weight and Health
+Most users have a healthy weight, but a lot of them are overweight.
+Underweight 0%
+Healthy 50%
+Overweight 37.5%
+Obese 12.5%
+
+### Counting Sheep: How long it takes users to fall asleep?
+Users spend an average of 7.6 hours in bed. It takes them only 39.2 minutes (8.5%) to fall asleep.
+It seems users go to sleep on time to get 8 hours of sleep without counting the time it takes them to fall asleep. That time does not even count the quality of sleep. Hence, users do not sleep enough, for an adult. 
+
+### Step by Step: What is a healthy amount of steps?
+According to the CDC, around 4,400 steps per day lowers mortality rate, this trend continues until the 7,500 spd. Also, 7,000-8,000 spd are sufficient to see results, however, adults should aim for 10,000 spd.
+Users do more steps on Tuesday and Saturday. Also, they walk an average of 8319 steps a day, which is good, but can be better.
+
+## The Heart of the Problem: METs and calories after an intensity session
+Around 500 MET minutes per week must be reached for optimal cardiovascular health.  METs are also important to calculate calories burned per minute. Users do 102.8 average MET minutes a week, way too far from the goal. Also, users intake an average of 2,304 daily calories, which is a healthy amount. However, other factors influence on the amount of the optimal daily intake, for a person.
+
+## Be Still My Beating Heart: Heart Rate
+A normal heart rate for an adult is between 60-100 beats per minute while resting. The average maximum heart rate at 100 percent exertion must be between 150 and 200 bpm. The maximum heart rate was  80.52 beats per minute.  The minimum is 58.84 bpm. For an adult, a normal h.r. is between 60 to 100 bpm. At 4 a.m. some users, present a h.r. a little below the normal rate. Users have a mostly sedentary life, spending an average of 20 hours a day with sedentary activity.
+
+## Review
+Tuesday is the day with more calorie intake and more sedentary minutes.  Saturday is the day with more steps and more MET minutes.
 
 
 ## Solutions
-
 
 Slides [presentation](https://docs.google.com/presentation/d/1RpI9FruQ30nTynJisbiWwfcVvknLacR8COnLISjaBTY/edit?usp=sharing) of project.
 
