@@ -1,6 +1,6 @@
 # Backstage
 
-Here you will find what I did in Excel, SQL and Rstudio to analyze the data
+Here you will find what I did in SQL and Rstudio to analyze the data (Most cleaning was done in Excel, except for a few exceptions).
 
 ## CASE to categorize users' weight using the BMI
 ```markdown
@@ -179,7 +179,7 @@ FROM dailySteps_NoDuplicates
 JOIN minuteMETsNarrow_merged ON minuteMETsNarrow_merged.ActivityMinute = dailySteps_NoDuplicates.ActivityDay
 ```
 
-## CORRELATION of calories and sedentary minutes
+## CORRELATION and PLOT of calories and sedentary minutes
 ```markdown
 read.csv("~/Google Data Analytics/CaloriesSedentary2.csv", header = TRUE, sep = ",")
 
@@ -194,7 +194,7 @@ ggscatter(CalSedCorr, x = "Calories", y = "SedentaryMinutes",
 cor.test(CalSedCorr$Calories, CalSedCorr$SedentaryMinutes, method=c("pearson", "kendall", "spearman"))
 ```
 
-## CORRELATION of steps and METs
+## CORRELATION and PLOT of steps and METs
 ```markdown
 read.csv("~/Google Data Analytics/StepsMets.csv", header = TRUE, sep = ",")
 SteMetCorr = read.csv("~/Google Data Analytics/StepsMets.csv", header = TRUE, sep = ",")
