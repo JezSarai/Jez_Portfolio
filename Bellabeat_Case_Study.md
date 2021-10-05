@@ -77,7 +77,7 @@ Slides [presentation](https://docs.google.com/presentation/d/1RpI9FruQ30nTynJisb
 
 ## Next Steps...
 We recommend in the future to add the next features:
-- Make medication reminders
+- Medication reminders
 - Keep a record of mindful minutes
 - Menstrual cycle tracker
 - Notify if the user is developing:
