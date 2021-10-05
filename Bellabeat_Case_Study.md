@@ -63,14 +63,14 @@ Slides [presentation](https://docs.google.com/presentation/d/1RpI9FruQ30nTynJisb
 
 ## Conclusions
 ### The Game Plan
-**STORE AND MONITOR**: Daily steps, METs, sleeping and bedtime, and heart rate each minute and monthly BMI.
+**STORE AND MONITOR**: Daily steps, METs, sleeping and bedtime, heart rate each minute, and monthly BMI.
 
-**CALCULATE**: Height, monthly BMI, health status based on heart rate, BMI, steps and METs.  
+**CALCULATE**: Height, monthly BMI, health status based on heart rate, BMI, steps, and METs.  
 
-**NOTIFY**: MET minutes for optimal cardiovascular health, calories deficit and calories burned, optimal time to go to bed and abnormal heart rates.
+**NOTIFY**: MET minutes for optimal cardiovascular health, calories deficit, and calories burned, the optimal time to go to bed, and abnormal heart rates.
 
 ### Let's investigate
-- Why are Tuesdays the day with the less activity and more calorie intake?
+- Why are Tuesdays the day with less activity and more calorie intake?
 - Why are Saturday the days with more steps and MET minutes?
 - Why not Sundays? Are users taking a break?
 
@@ -85,3 +85,7 @@ We recommend in the future to add the next features:
   - Atrial fibrillation
   - Respiratory issues
   - Stress
+
+
+## Backstage
+Check codes in [here](https://github.com/JezSarai/Jez_Portfolio/blob/b358a955c7f4da837ec7e42bb1de142cd28e980c/Backstage.md)
