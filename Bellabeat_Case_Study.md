@@ -16,7 +16,8 @@ The objective is to identify how consumers use non-Bellabeat smart devices in or
 ### About the data
 The data involves 18 csv files (Fitness Tracker Data) with information such as minute-level output for physical activity, heart rate, sleep monitoring, weight, fat, BMI, among others. Thirty Fitbit users' information was recorded in these files. Thirty is the minimum sample size for any analysis to be significant. All files have an Id column that helps relate all of them.  The data comes from Amazon Mechanical Turk from December 3 to December 5, 2016.
 
-The data might be outdated, but for the sake of the case study, it will be used. Also, usually there is one table (weightLogInfo_merged.csv) with incomplete data implies the need to get more data from users or from other public databases, again, many assumptions will be made since this case study is made as a data analysis exercise. Most tables used where those with daily data, since it was more useful to know the daily and hourly average of variables rather than their average per minute or second.
+The data might be outdated, but for the sake of the case study, it will be used. Also, usually, there is one table (weightLogInfo_merged.csv) with incomplete data implies the need to get more data from users or from other public databases, again, many assumptions will be made since this case study is made as a data analysis exercise. Most tables used were those with daily data, since it was more useful to know the daily and hourly average of variables rather than their average per minute or second.
+
 
 A short description of each file, analysis, facts, assumptions, and major problems, can be found here. 
 
@@ -48,9 +49,12 @@ Around 500 MET minutes per week must be reached for optimal cardiovascular healt
 ## Be Still My Beating Heart: Heart Rate
 A normal heart rate for an adult is between 60-100 beats per minute while resting. The average maximum heart rate at 100 percent exertion must be between 150 and 200 bpm. The maximum heart rate was  80.52 beats per minute.  The minimum is 58.84 bpm. For an adult, a normal h.r. is between 60 to 100 bpm. At 4 a.m. some users, present a h.r. a little below the normal rate. Users have a mostly sedentary life, spending an average of 20 hours a day with sedentary activity. Note that, even on weekends, sedentary activity is high.
 
+## Are they related?
+Calories and Sedentary Minutes are significantly correlated. (p-value = 5.093x10^-8) While it seems like, the number of steps and METs are not correlated.
+(p-value = 0.58)
 
 ## Review
-Tuesday is the day with more calorie intake and more sedentary minutes.  Saturday is the day with more steps and more MET minutes.
+Tuesday is the day with more calorie intake and more sedentary minutes.  Saturday is the day with more steps and more MET. The day with more steps and more METs. However, these are not related.
 
 
 ## Solutions
