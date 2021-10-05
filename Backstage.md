@@ -131,15 +131,6 @@ INNER JOIN dailyCalories_merged dcm
 ON dam.Id = dcm.Id AND dam.ActivityDate = dcm.ActivityDay
 ```
 
-## Renaming
-```markdown
-SELECT DATA_TYPE 
-FROM INFORMATION_SCHEMA.COLUMNS
-WHERE 
-     TABLE_NAME = 'yourTableName' AND 
-     COLUMN_NAME = 'yourColumnName'
-```
-
 ## Another DATEPART
 ```markdown
 DECLARE @Table TABLE (Id bigint, HrtRate INT, DHMS datetime, TimeHr varchar(10), TimeMin varchar(10), HrMin VARCHAR(10))
