@@ -10,6 +10,7 @@ Phone number:  81 1513 7593
 E-mail: jessicas.gonzalezr@gmail.com
 
 [Linked-In profile](https://www.linkedin.com/in/jessica-gonzalez-97920149/)
+[Webpage](https://sites.google.com/view/jezdataanalystportafolio/home)
 
 # Resume
 You can find the most updated version of my [resume here](https://docs.google.com/document/d/1k7i5eW0aztkoCV3j5dZlA3qTKjWgAF8DZ7jHxB0J8ys/edit?usp=sharing).
