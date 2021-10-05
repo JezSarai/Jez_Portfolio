@@ -61,13 +61,50 @@ Tuesday is the day with more calorie intake and more sedentary minutes.  Saturda
 
 Slides [presentation](https://docs.google.com/presentation/d/1RpI9FruQ30nTynJisbiWwfcVvknLacR8COnLISjaBTY/edit?usp=sharing) of project.
 
+For the wellness tracker and Time record:
+Notify users:
+- How many MET minutes to achieve optimal cardiovascular health.
+- Calories deficit and calories burned after an intensity session.
+- Any abnormal heart rate when in rest or activity.
+- Optimal time to go to bed to achieve enough sleeping time.
+Also,
+- Update user’s BMI/weight once a month to monitor their weight.
+- Monitor heart rate per minute, not second.
+
+These insights are the most useful for users given the data to analyze.  These provide useful information to make [healthcare](https://www.nwpc.com/how-smartwatches-could-improve-your-health/) decisions. There are still many data that can be collected to improve users' experience. We will talk about it in further sections.
+
+**Marketing Strategy**
+CURATED FOR YOU
+#4U: Not only do Bellabeat products are curated for women, they offer insights of your own personal health.
+You have many worries. Do not let health be one of them. Leave the heavy lifting to us.
+
+Not all health factors are well delimited by gender, we mostly know about male biology given that many studies rely on male subjects. By curating the information of the wellness tracker based on female health information, and user's individual data, they can be sure that the insights offered are what they need to improve their lives.
+
 ## Conclusions
 ### The Game Plan
-**STORE AND MONITOR**: Daily steps, METs, sleeping and bedtime, heart rate each minute, and monthly BMI.
 
-**CALCULATE**: Height, monthly BMI, health status based on heart rate, BMI, steps, and METs.  
+We recommend to:
+**STORE AND MONITOR**:
+Daily:
+- Steps
+- METs
+- Sleeping and bedtime
+- Heart rate each minute
+Monthly BMI
 
-**NOTIFY**: MET minutes for optimal cardiovascular health, calories deficit, and calories burned, the optimal time to go to bed, and abnormal heart rates.
+**CALCULATE**:
+- Height
+- Monthly BMI
+- BMI
+- Steps
+- METs
+- Health status based on heart rate
+
+**NOTIFY**:
+- MET minutes for optimal cardiovascular health
+- Calories deficit and calories burned
+- Optimal time to go to bed
+- Abnormal heart rates
 
 ### Let's investigate
 - Why are Tuesdays the day with less activity and more calorie intake?
