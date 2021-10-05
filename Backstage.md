@@ -1,6 +1,6 @@
 # Backstage
 
-Here you will find what I did in SQL and Rstudio to analyze the data (Most cleaning was done in Excel, except for a few exceptions).
+Here you will find what I did in SQL and Rstudio to analyze the data (Most cleaning was done in Excel, except for a few exceptions, watch it [here](https://sites.google.com/view/jezdataanalystportafolio/home/case-studies/bellabeat-case-study/files)).
 
 ## CASE to categorize users' weight using the BMI
 ```markdown
