@@ -46,7 +46,8 @@ Users do more steps on Tuesday and Saturday. Also, they walk an average of 8319 
 Around 500 MET minutes per week must be reached for optimal cardiovascular health.  METs are also important to calculate calories burned per minute. Users do 102.8 average MET minutes a week, way too far from the goal. Also, users intake an average of 2,304 daily calories, which is a healthy amount. However, other factors influence on the amount of the optimal daily intake, for a person.
 
 ## Be Still My Beating Heart: Heart Rate
-A normal heart rate for an adult is between 60-100 beats per minute while resting. The average maximum heart rate at 100 percent exertion must be between 150 and 200 bpm. The maximum heart rate was  80.52 beats per minute.  The minimum is 58.84 bpm. For an adult, a normal h.r. is between 60 to 100 bpm. At 4 a.m. some users, present a h.r. a little below the normal rate. Users have a mostly sedentary life, spending an average of 20 hours a day with sedentary activity.
+A normal heart rate for an adult is between 60-100 beats per minute while resting. The average maximum heart rate at 100 percent exertion must be between 150 and 200 bpm. The maximum heart rate was  80.52 beats per minute.  The minimum is 58.84 bpm. For an adult, a normal h.r. is between 60 to 100 bpm. At 4 a.m. some users, present a h.r. a little below the normal rate. Users have a mostly sedentary life, spending an average of 20 hours a day with sedentary activity. Note that, even on weekends, sedentary activity is high.
+
 
 ## Review
 Tuesday is the day with more calorie intake and more sedentary minutes.  Saturday is the day with more steps and more MET minutes.
