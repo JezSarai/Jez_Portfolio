@@ -1,6 +1,6 @@
 # Backstage
 ## Modifications to main table
-### October 5th. 2021 (10/05/2021)
+### October 5th. 2021
 - Added comments in Column name to understand what it means.
 - Filtered to identify blanks (nulls). NO NULLS.
 - Added a COUNTIF in Excel to count each sample with acertain age.
