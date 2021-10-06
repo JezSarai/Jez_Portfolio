@@ -10,7 +10,9 @@
 
 ## Pearson's Correlations
 Age to Chest Pain Type
+```markdown
 cor.test(heart$age, heart$cp, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$cp
 t = -1.1939, df = 301, p-value = 0.2335
 alternative hypothesis: true correlation is not equal to 0
@@ -22,7 +24,9 @@ sample estimates:
 NOT SIGNIFICANTLY CORRELATED
 
 Age to resting Blood Pressure
+```markdown
 cor.test(heart$age, heart$trestbps, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$trestbps
 t = 5.0475, df = 301, p-value = 7.762e-07
 alternative hypothesis: true correlation is not equal to 0
@@ -34,7 +38,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to Serum Colesterol (mg/dl)
+```markdown
 cor.test(heart$age, heart$chol, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$chol
 t = 3.7948, df = 301, p-value = 0.0001786
 alternative hypothesis: true correlation is not equal to 0
@@ -46,7 +52,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to Fasting blood sugar (> 120 mg/dl)
+```markdown
 cor.test(heart$age, heart$fbs, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$fbs
 t = 2.1203, df = 301, p-value = 0.0348
 alternative hypothesis: true correlation is not equal to 0
@@ -58,7 +66,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to Resting electrocardiographic results (values 0,1,2)
+```markdown
 cor.test(heart$age, heart$restecg, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$restecg
 t = -2.0299, df = 301, p-value = 0.04324
 alternative hypothesis: true correlation is not equal to 0
@@ -69,7 +79,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to  Maximum Heart Rate Achieved
+```markdown
 cor.test(heart$age, heart$thalach, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$thalach
 t = -7.5386, df = 301, p-value = 5.628e-13
 alternative hypothesis: true correlation is not equal to 0
@@ -81,7 +93,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to  Exercise Induced Angina
+```markdown
 cor.test(heart$age, heart$exang, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$exang
 t = 1.6874, df = 301, p-value = 0.09257
 alternative hypothesis: true correlation is not equal to 0
@@ -93,7 +107,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to Old peak(ST depression induced by exercise relative to rest)
+```markdown
 cor.test(heart$age, heart$oldpeak, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$oldpeak
 t = 3.7267, df = 301, p-value = 0.0002317
 alternative hypothesis: true correlation is not equal to 0
@@ -103,8 +119,11 @@ sample estimates:
       cor 
 0.2100126 
 SIGNIFICANTLY CORRELATED
+
 Age to Slope of the peak exercise ST segment
+```markdown
 cor.test(heart$age, heart$slope, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$slope
 t = -2.9715, df = 301, p-value = 0.003203
 alternative hypothesis: true correlation is not equal to 0
@@ -116,7 +135,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to Thal (0 = normal; 1 = fixed defect; 2 = reversable defect)
+```markdown
 cor.test(heart$age, heart$thal, method=c("pearson", "kendall", "spearman"))
+```
 t = 1.1825, df = 301, p-value = 0.2379
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -127,7 +148,9 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 Age to Target (0= less chance of heart attack 1= more chance of heart attack)
+```markdown
 cor.test(heart$age, heart$target, method=c("pearson", "kendall", "spearman"))
+```
 data:  heart$age and heart$target
 t = -4.0146, df = 301, p-value = 7.525e-05
 alternative hypothesis: true correlation is not equal to 0
