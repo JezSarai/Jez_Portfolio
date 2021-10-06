@@ -9,11 +9,12 @@
 - Correlated in RStudio
 
 ## Pearson's Correlations
-Age to Chest Pain Type
+**Age to Chest Pain Type**
+
 ```markdown
 cor.test(heart$age, heart$cp, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$cp
+
 t = -1.1939, df = 301, p-value = 0.2335
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -23,11 +24,12 @@ sample estimates:
 -0.06865302 
 NOT SIGNIFICANTLY CORRELATED
 
-Age to resting Blood Pressure
+**Age to resting Blood Pressure**
+
 ```markdown
 cor.test(heart$age, heart$trestbps, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$trestbps
+
 t = 5.0475, df = 301, p-value = 7.762e-07
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -37,11 +39,12 @@ sample estimates:
 0.2793509 
 SIGNIFICANTLY CORRELATED
 
-Age to Serum Colesterol (mg/dl)
+**Age to Serum Colesterol (mg/dl)**
+
 ```markdown
 cor.test(heart$age, heart$chol, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$chol
+
 t = 3.7948, df = 301, p-value = 0.0001786
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -51,11 +54,12 @@ sample estimates:
 0.213678 
 SIGNIFICANTLY CORRELATED
 
-Age to Fasting blood sugar (> 120 mg/dl)
+**Age to Fasting blood sugar (> 120 mg/dl)**
+
 ```markdown
 cor.test(heart$age, heart$fbs, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$fbs
+
 t = 2.1203, df = 301, p-value = 0.0348
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -65,11 +69,12 @@ sample estimates:
 0.1213076 
 SIGNIFICANTLY CORRELATED
 
-Age to Resting electrocardiographic results (values 0,1,2)
+**Age to Resting electrocardiographic results (values 0,1,2)**
+
 ```markdown
 cor.test(heart$age, heart$restecg, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$restecg
+
 t = -2.0299, df = 301, p-value = 0.04324
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -78,11 +83,12 @@ sample estimates:
        cor 
 SIGNIFICANTLY CORRELATED
 
-Age to  Maximum Heart Rate Achieved
+**Age to  Maximum Heart Rate Achieved**
+
 ```markdown
 cor.test(heart$age, heart$thalach, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$thalach
+
 t = -7.5386, df = 301, p-value = 5.628e-13
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -92,11 +98,12 @@ sample estimates:
 -0.3985219 
 SIGNIFICANTLY CORRELATED
 
-Age to  Exercise Induced Angina
+**Age to  Exercise Induced Angina**
+
 ```markdown
 cor.test(heart$age, heart$exang, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$exang
+
 t = 1.6874, df = 301, p-value = 0.09257
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -106,11 +113,12 @@ sample estimates:
 0.09680083 
 SIGNIFICANTLY CORRELATED
 
-Age to Old peak(ST depression induced by exercise relative to rest)
+**Age to Old peak(ST depression induced by exercise relative to rest)**
+
 ```markdown
 cor.test(heart$age, heart$oldpeak, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$oldpeak
+
 t = 3.7267, df = 301, p-value = 0.0002317
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -120,11 +128,12 @@ sample estimates:
 0.2100126 
 SIGNIFICANTLY CORRELATED
 
-Age to Slope of the peak exercise ST segment
+**Age to Slope of the peak exercise ST segment**
+
 ```markdown
 cor.test(heart$age, heart$slope, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$slope
+
 t = -2.9715, df = 301, p-value = 0.003203
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -134,10 +143,12 @@ sample estimates:
 -0.1688142 
 SIGNIFICANTLY CORRELATED
 
-Age to Thal (0 = normal; 1 = fixed defect; 2 = reversable defect)
+**Age to Thal (0 = normal; 1 = fixed defect; 2 = reversable defect)**
+
 ```markdown
 cor.test(heart$age, heart$thal, method=c("pearson", "kendall", "spearman"))
 ```
+
 t = 1.1825, df = 301, p-value = 0.2379
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -147,11 +158,12 @@ sample estimates:
 0.06800138 
 SIGNIFICANTLY CORRELATED
 
-Age to Target (0= less chance of heart attack 1= more chance of heart attack)
+**Age to Target (0= less chance of heart attack 1= more chance of heart attack)**
+
 ```markdown
 cor.test(heart$age, heart$target, method=c("pearson", "kendall", "spearman"))
 ```
-data:  heart$age and heart$target
+
 t = -4.0146, df = 301, p-value = 7.525e-05
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
