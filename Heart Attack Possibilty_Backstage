@@ -1,0 +1,9 @@
+# Backstage
+## Modifications to main table
+### October 5th. 2021 (10/05/2021)
+- Added comments in Column name to understand what it means.
+- Filtered to identify blanks (nulls). NO NULLS.
+- Added a COUNTIF in Excel to count each sample with acertain age.
+- Charted the results as Pie Chart and Histogram with ranges of 29-43, 43-57, 57-71, and 71-85.
+- Added a COUNTIF in Excel to count the number of female and male study subjects. MALES ARE OVERREPRESENTED.
+- Correlated in RStudio
