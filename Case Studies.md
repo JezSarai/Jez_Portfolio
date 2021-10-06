@@ -8,3 +8,4 @@ Continue to full [case study](https://github.com/JezSarai/Jez_Portfolio/blob/de1
 
 # Heart Attack Possibilty
 IN PROGRESS
+[HERE](https://github.com/JezSarai/Jez_Portfolio/blob/c9ba9e099ebd7ba1cd82e9e754b4fbf72934ed76/Heart%20Attack%20Possibility_Case%20Study)
