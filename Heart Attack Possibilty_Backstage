@@ -179,7 +179,10 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 **Sex to Chest Pain Type**
+```markdown
 cor.test(heart$sex, heart$cp, method=c("pearson", "kendall", "spearman"))
+```
+
 t = -0.85729, df = 301, p-value = 0.392
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -190,7 +193,10 @@ sample estimates:
 NOT SIGNIFICANTLY CORRELATED
 
 **Sex to Resting Blood Pressure**
- cor.test(heart$sex, heart$trestbps, method=c("pearson", "kendall", "spearman"))
+```markdown
+cor.test(heart$sex, heart$trestbps, method=c("pearson", "kendall", "spearman"))
+```
+
 t = -0.98649, df = 301, p-value = 0.3247
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -201,7 +207,10 @@ sample estimates:
 NOT SIGNIFICANTLY CORRELATED
 
 **Sex to Serum Cholesterol in mg/dl**
+```markdown
 cor.test(heart$sex, heart$chol, method=c("pearson", "kendall", "spearman"))
+```
+
 t = -3.5029, df = 301, p-value = 0.00053
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -212,7 +221,10 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 **Sex to Fasting blood sugar > 120 mg/dl**
+```markdown
 cor.test(heart$sex, heart$fbs, method=c("pearson", "kendall", "spearman"))
+```
+
 t = 0.78207, df = 301, p-value = 0.4348
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -223,7 +235,10 @@ sample estimates:
 NOT SIGNIFICANTLY CORRELATED
 
 **Sex to Resting Electrocardiographic Results (values 0,1,2)**
+```markdown
 cor.test(heart$sex, heart$restecg, method=c("pearson", "kendall", "spearman"))
+```
+
 t = -1.0114, df = 301, p-value = 0.3126
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -234,7 +249,10 @@ sample estimates:
 NOT SIGNIFICANTLY CORRELATED
 
 **Sex to Maximum heart rate achieved**
+```markdown
 cor.test(heart$sex, heart$thalach, method=c("pearson", "kendall", "spearman"))
+```
+
 t = -0.76446, df = 301, p-value = 0.4452
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -245,7 +263,10 @@ sample estimates:
 NOT SIGNIFICANTLY CORRELATED
 
 **Sex to Exercise induced angina**
+```markdown
 cor.test(heart$sex, heart$exang, method=c("pearson", "kendall", "spearman"))
+```
+
 t = 2.4828, df = 301, p-value = 0.01358
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -256,7 +277,10 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 **Sex to Oldpeak (ST depression induced by exercise relative to rest)**
+```markdown
 cor.test(heart$sex, heart$oldpeak, method=c("pearson", "kendall", "spearman"))
+```
+
 t = 1.6749, df = 301, p-value = 0.09499
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -267,7 +291,10 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 **Sex to Slope of the peak exercise ST segment**
+```markdown
 cor.test(heart$sex, heart$slope, method=c("pearson", "kendall", "spearman"))
+```
+
 t = -0.53306, df = 301, p-value = 0.5944
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -278,7 +305,10 @@ sample estimates:
 NOT SIGNIFICANTLY CORRELATED
 
 **Sex to Number of major vessels (0-3) colored by flourosopy**
+```markdown
 cor.test(heart$sex, heart$ca, method=c("pearson", "kendall", "spearman"))
+```
+
 t = 2.0663, df = 301, p-value = 0.03966
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -289,7 +319,10 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 **Sex to Thal (0 = normal; 1 = fixed defect; 2 = reversable defect)**
+```markdown
 cor.test(heart$sex, heart$thal, method=c("pearson", "kendall", "spearman"))
+```
+
 t = 3.7272, df = 301, p-value = 0.0002312
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
@@ -300,7 +333,10 @@ sample estimates:
 SIGNIFICANTLY CORRELATED
 
 **Sex to Target (0= less chance of heart attack 1= more chance of heart attack)**
+```markdown
 cor.test(heart$sex, heart$target, method=c("pearson", "kendall", "spearman"))
+```
+
 t = -5.0786, df = 301, p-value = 6.679e-07
 alternative hypothesis: true correlation is not equal to 0
 95 percent confidence interval:
