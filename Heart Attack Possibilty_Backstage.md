@@ -11,6 +11,10 @@
 ### October 6th. 2021
 - Correlated Sex to other variables in RStudio
 
+## October 7th. 2021 (10/06/21)
+Charted Histograms of each variable against age to check if Pearson 's Correlation was a good test to establish correlation.
+Coded a multiple linear regression to [predict](https://github.com/JezSarai/Jez_Portfolio/blob/eeed74a44d29abc2c905a8dfc33d9bbe57e7f3a2/Heart%20Attack%20Possibitly_Prediction.md) a heart attack.
+
 
 ## Pearson's Correlations
 **Age to Chest Pain Type**
