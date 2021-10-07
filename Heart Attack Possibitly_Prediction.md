@@ -1,6 +1,6 @@
 # Prediction of Heart Attack
 
-## Code
+## Multivariable Linear Regression Code
 ```markdown
 import numpy as np
 import matplotlib.pyplot as plt
