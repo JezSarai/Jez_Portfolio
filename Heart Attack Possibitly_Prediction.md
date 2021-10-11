@@ -27,6 +27,9 @@ print(np.concatenate((y_pred.reshape(len(y_pred),1), y_test.reshape(len(y_test),
 
 print(regressor.coef_)
 print(regressor.intercept_)
+
+from sklearn.metrics import r2_score
+r2_score(y_test, y_pred)
 ```
 
 
